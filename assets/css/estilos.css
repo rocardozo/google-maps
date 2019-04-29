@@ -1,0 +1,15 @@
+html, body {
+	height: 100%;
+}
+
+#menu {
+	background-color: rgba(0, 0, 0, .75);
+}
+
+.link {
+	color: white;
+}
+
+nav a:hover{
+	color: orange;
+}
